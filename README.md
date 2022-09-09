@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am currently working in the BC Public Service.
+I am currently learning GitHub.
+I am a Product Manager.
+Reach me on LinkedIn.
+
 <!--
 **aecote/aecote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
